@@ -1,2 +1,2 @@
 "Nama Lengkap: Aditya Prayoga" 
-"Alamat: Semarang, Jawa Tengah" 
+"Jenis Kelamin: Laki-laki" 
