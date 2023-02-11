@@ -1,2 +1,2 @@
-"nama lengkap: Aditya Prayoga" 
-"alamat: semarang, jawa tengah" 
+"Nama Lengkap: Aditya Prayoga" 
+"Alamat: Semarang, Jawa Tengah" 
