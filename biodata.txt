@@ -1,1 +1,2 @@
 "nama: aditya" 
+"alamat: semarang, jawa tengah" 
